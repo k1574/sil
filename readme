@@ -1,0 +1,9 @@
+# sil
+sil - put silence thread with exact amplitude
+## Installation
+To install run:
+``
+	$ mk install
+``
+By default installtion happens into "$HOME/local/bin". Can be changed in "mkconfig" file'
+Right now works just with signed float(IEEE float).
